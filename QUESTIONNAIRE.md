@@ -48,7 +48,7 @@ We'll go through these **ONE AT A TIME** to build the complete game design.
 
 ### Q6: Are they wearing headphones?
 - If YES: Can they still hear the player talk to them?
-- **Your answer:** _______________
+- **Your answer:** **Yes, has over-ear headphones (established in Q2). Most of the time they're down around his neck so he CAN hear you. Occasionally he'll put them on for a brief moment, bob his head to the music, then slide them back down around his neck. This is another repetitive behavior to observe.**
 
 ### Q7: Any other repetitive behaviors besides trying to drink empty coffee?
 - **Your answer:** _______________
