@@ -155,10 +155,13 @@ We'll go through these **ONE AT A TIME** to build the complete game design.
   5. **Brew coffee** (press the button/start brewing)
 
 ### Q18: Where are the coffee-making ingredients/items located?
-- Coffee grounds: _______________
-- Water: _______________
-- Filter (if needed): _______________
-- Other: _______________
+- Coffee grounds: **At the player's desk (visible only after eating the Byte Bar - absurd detail that the solution was right there all along)**
+- Water: **Already in the coffee maker reservoir (one less step)**
+- Filter (if needed): **Assume filter already in coffee maker (or not needed)**
+- Other items:
+  - **C0FF33 pot**: On a table in the kitchen area (visible only after eating the Byte Bar)
+  - **418 pot**: Already IN the coffee maker at game start (visible when investigating after eating snack)
+  - **Power plug**: Right next to the coffee maker (discovered when investigating the coffee maker area)
 
 ### Q19: How does the engineer know coffee is ready?
 - Option A: Smell automatically triggers them to leave (player doesn't need to do anything)
