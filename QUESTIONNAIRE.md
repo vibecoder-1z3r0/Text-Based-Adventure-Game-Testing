@@ -44,7 +44,7 @@ We'll go through these **ONE AT A TIME** to build the complete game design.
   - "Contributing to GNU/Hurd rewrite in Rust"
   - "Implementing quantum entanglement in JavaScript"
   - Something else?
-- **Your answer:** _______________
+- **Your answer:** **Writing bytecode compiler for HTCPCP (Hyper Text Coffee Pot Control Protocol) - the April Fools' RFC 2324. Perfect blend of coffee obsession and obscure internet protocol nerdery.**
 
 ### Q6: Are they wearing headphones?
 - If YES: Can they still hear the player talk to them?
