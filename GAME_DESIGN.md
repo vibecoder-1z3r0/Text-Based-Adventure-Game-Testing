@@ -191,11 +191,17 @@
 ### 5. NPC Interactions
 
 **Talking to Engineer:**
-- [ ] Can player talk to them?
-  - Yes - they respond (what do they say?)
-  - Yes - but they just grunt/ignore you
-  - No - too focused on coding
-  - Your choice: _______________
+- [x] **Can player talk to them: YES** - they respond but remain absorbed in work
+- [x] **Example dialogue provided:**
+  > "You know these LLMs? They're just non-deterministic guessing machines..."
+  >
+  > *The engineer goes back to coding, moving windows around, running a flurry of CLI commands. Things go green and red on the screens. The engineer sighs and tries to drink more coffee.*
+
+**Engineer Personality:**
+- [x] Cynical about AI/LLMs
+- [x] Very technical, absorbed in work
+- [x] Returns to coding immediately after speaking
+- [x] Visual activity: windows moving, CLI commands flying, test results flashing green/red
 
 **Asking About Password:**
 - [ ] If you ask engineer about password directly:
@@ -212,10 +218,12 @@
   - Your response: _______________
 
 **Other Conversation Topics:**
-- [ ] What can you ask/tell them about?
+- [x] **LLMs/AI** - confirmed dialogue above
+- [ ] What else can you ask/tell them about?
   - Their code/project?
   - Tabs vs spaces?
   - Vim vs Emacs?
+  - Programming languages?
   - Your topics: _______________
 
 ---
