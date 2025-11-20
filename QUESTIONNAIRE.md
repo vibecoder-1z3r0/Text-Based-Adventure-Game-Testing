@@ -85,10 +85,10 @@ We'll go through these **ONE AT A TIME** to build the complete game design.
 - Option B: On your desk
 - Option C: Need to find it somewhere
 - Option D: Other?
-- **Your answer:** _______________
+- **Your answer:** **Option D - In the vending machine's coin return slot. A forgotten token from a previous transaction.**
 
 ### Q11: If player needs to find the token (Q10 = C), where is it?
-- **Your answer:** _______________
+- **Your answer:** **In the vending machine's coin return slot. Visual hint: The vending machine description mentions something "shiny" visible in the coin return slot, drawing the player's attention. Commands like "examine coin return", "check coin return", or "look in coin return" will reveal and allow taking the token.**
 
 ### Q12: What snacks are in the vending machine?
 - Just one option or multiple choices?
