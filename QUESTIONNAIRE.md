@@ -78,7 +78,7 @@ We'll go through these **ONE AT A TIME** to build the complete game design.
 
 ### Q9: Where is the vending machine located?
 - Break room? Hallway? Your cubicle area?
-- **Your answer:** _______________
+- **Your answer:** **Hallway - positioned between Merl's cubicle/work area and the kitchen/break room area. Serves as a transition space between the two main zones.**
 
 ### Q10: Where does the player find the token?
 - Option A: Already in your pocket/inventory
