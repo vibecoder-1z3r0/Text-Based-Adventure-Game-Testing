@@ -201,15 +201,22 @@
 
 **Talking to Engineer:**
 - [x] **Can player talk to them: YES** - they respond but remain absorbed in work
-- [x] **Example dialogue provided:**
+- [x] **Example dialogue #1 (about LLMs):**
   > "You know these LLMs? They're just non-deterministic guessing machines..."
   >
   > *The engineer goes back to coding, moving windows around, running a flurry of CLI commands. Things go green and red on the screens. The engineer sighs and tries to drink more coffee.*
 
+- [x] **Example dialogue #2 (about coding philosophy):**
+  > "We must always serve the vibe!"
+  >
+  > *The engineer pushes their glasses up, tries to drink more coffee, looks back at the mug and sighs, then goes back to more coding wizardry.*
+
 **Engineer Personality:**
 - [x] Cynical about AI/LLMs
+- [x] Philosophical about coding ("serve the vibe")
 - [x] Very technical, absorbed in work
 - [x] Returns to coding immediately after speaking
+- [x] Pushes glasses up (repetitive tic)
 - [x] Visual activity: windows moving, CLI commands flying, test results flashing green/red
 
 **Asking About Password:**
