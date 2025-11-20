@@ -101,7 +101,12 @@ We'll go through these **ONE AT A TIME** to build the complete game design.
   - "Your head clears. You can think again."
   - Can now hear engineer's coffee mug attempts?
   - Can now notice more details in room descriptions?
-- **Your answer:** _______________
+- **Your answer:** **After eating the Byte Bar, three things change:**
+  1. **Hunger satisfied / head clears**: "The fog in your mind lifts. You can think clearly again."
+  2. **Room descriptions expand**: Rooms go from sparse/minimal to full, detailed descriptions with all objects visible
+  3. **Can now notice Merl's repetitive behaviors**: Empty coffee mug attempts, sighing, headphone bobbing, pushing glasses up, muttering about "418 I'm a teapot" - these were always happening but you were too distracted to notice
+
+  **Note**: Merl's speech was ALWAYS understandable (not garbled), you just weren't paying attention before due to hunger tunnel vision.
 
 ### Q14: Is the vending machine puzzle required to progress?
 - Option A: Yes, must eat before you can notice the coffee puzzle
