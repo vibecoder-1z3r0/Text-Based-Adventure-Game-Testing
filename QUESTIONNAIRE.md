@@ -22,7 +22,7 @@ We'll go through these **ONE AT A TIME** to build the complete game design.
 
 ### Q4: What surrounds their desk besides the monitors and coffee mug?
 - Options: Empty coffee cups, pizza boxes, rubber ducks, energy drink cans, programming books, action figures, etc.
-- **Your answer:** **At least 4 rubber ducks sitting below his monitors. He has dual monitors + a laptop for the 3rd monitor setup (but it looks like he's working from 20 monitors due to all the windows/terminals open).**
+- **Your answer:** **At least 4 rubber ducks sitting below his monitors. One duck is named "The Dread Pirate Roberts" and has a trimmed-down post-it on the monitor serving as the duck's name placard. He has dual monitors + a laptop for the 3rd monitor setup (but it looks like he's working from 20 monitors due to all the windows/terminals open).**
 
 ### Q5: What absurd project are they working on?
 - Examples:
