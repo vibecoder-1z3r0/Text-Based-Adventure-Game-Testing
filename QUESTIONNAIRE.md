@@ -117,7 +117,22 @@ We'll go through these **ONE AT A TIME** to build the complete game design.
 ### Q15: Any funny/absurd text for the vending machine or snacks?
 - Vending machine description?
 - Snack wrapper description?
-- **Your answer:** _______________
+- **Your answer:**
+
+  **Token:**
+  - Worn metallic token with ambiguous marking that could be read as "10", "01", or "IO" depending on how you look at it (nod to vibecoder 1.z3r0)
+
+  **Vending Machine:**
+  - **Display screen**: Says "Insert Token" (when empty/waiting)
+  - **Warning labels**: "Do Not Shake" and "Contains Food-Like Substances"
+  - **Physical condition**: The glass and frame look like they were once attacked by a rabid wolverine, or a hungry developer - not sure which
+  - **Coin return**: Something shiny visible inside (the token)
+
+  **Byte Bar wrapper:**
+  - **Manufacturer**: "0g" (pronounced "Zero Gram")
+  - **Main text**: "Byte Bar" and "8 bits of nutrition!" (established in Q12)
+  - **Wrapper design**: Everything else on the wrapper is written in 0s and 1s (binary), except the product name and company name
+  - **Position**: C3 in vending machine (established in Q8)
 
 ---
 
