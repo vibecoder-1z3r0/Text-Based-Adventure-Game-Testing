@@ -18,7 +18,7 @@ We'll go through these **ONE AT A TIME** to build the complete game design.
 
 ### Q3: What's on their mechanical keyboard?
 - RGB lights? Vintage mechanical? Custom keycaps? Plain?
-- **Your answer:** **Mechanical keyboard similar to the old IBM clicky keyboards (Model M style) but not as obnoxiously loud. Vintage tactile feel, fits the Unix wizard aesthetic.**
+- **Your answer:** **Mechanical keyboard similar to the old IBM clicky keyboards (Model M style) but not as obnoxiously loud. Has F-keys down the left side. Meta where Alt could be, or is it Alt where Meta could be? (Classic Unix/Lisp machine confusion). Vintage tactile feel, fits the Unix wizard aesthetic perfectly.**
 
 ### Q4: What surrounds their desk besides the monitors and coffee mug?
 - Options: Empty coffee cups, pizza boxes, rubber ducks, energy drink cans, programming books, action figures, etc.
