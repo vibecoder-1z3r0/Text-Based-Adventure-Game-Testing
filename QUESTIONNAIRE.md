@@ -68,7 +68,13 @@ We'll go through these **ONE AT A TIME** to build the complete game design.
   - Can't focus enough to notice details?
   - Text is fuzzy or confusing?
   - Room descriptions are minimal?
-- **Your answer:** _______________
+- **Your answer:** **"Tunnel vision" hunger state:**
+  - **Can't focus on details**: Most descriptions are minimal/foggy
+  - **Room descriptions are sparse**: Only essential elements visible
+  - **Can't understand Merl**: His speech is incomprehensible (garbled/muffled)
+  - **BUT clear focus on survival**: Token, vending machine, and snack are perfectly clear (tunnel vision effect)
+  - **Only one snack available**: Located at position **C3** in the vending machine
+  - **Easter egg**: When snack is dispensed, display shows "PO" briefly - player thinks it means "Purchase Offered" and shrugs it off (actually completes C-3PO reference)
 
 ### Q9: Where is the vending machine located?
 - Break room? Hallway? Your cubicle area?
