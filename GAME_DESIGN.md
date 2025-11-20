@@ -24,7 +24,10 @@
   - 3 physical monitors but looks like 7+ windows open
   - Repeatedly tries to drink from empty coffee mug and sighs
   - Coffee addict (this is the main hint)
-- **Core Puzzle**: Brew coffee → Engineer leaves desk → Lift keyboard → Find post-it → Get password
+- **Puzzle Flow**:
+  1. **Initial State**: Too hungry to think/hear clearly
+  2. **Warmup Puzzle**: Insert token → Push button → Get snack → Eat snack
+  3. **Main Puzzle**: Notice engineer's coffee behavior → Brew coffee → Engineer leaves desk → Lift keyboard → Find post-it → Get password
 - **Key Constraint**: Cafeteria coffee is out (must brew fresh)
 - **Keyboard Mechanic**:
   - Can examine while engineer is there, but it's a blur from rapid typing
@@ -32,6 +35,12 @@
   - Post-it is hidden underneath
 
 ### Still Need to Decide:
+- **VENDING MACHINE PUZZLE (Initial/Warmup):**
+  - Player is too hungry to think/hear clearly
+  - "Insert token, push button, get snack" puzzle
+  - After eating: can now notice engineer's coffee behavior
+  - Where is vending machine? Where is token?
+  - What snack? What changes after eating?
 - Engineer's name and specific appearance
 - What absurd project they're working on
 - Coffee brewing complexity (simple vs multi-step puzzle)

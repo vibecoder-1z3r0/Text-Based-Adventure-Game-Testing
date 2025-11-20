@@ -41,15 +41,65 @@ We'll go through these **ONE AT A TIME** to build the complete game design.
 
 ---
 
-## SECTION 2: COFFEE PUZZLE
+## SECTION 2: VENDING MACHINE PUZZLE (Initial/Warmup)
 
-### Q8: Coffee machine complexity - how hard is it to brew coffee?
+### Q8: What is the player's initial state?
+- How does being "too hungry to think/hear" manifest in the game?
+- Examples:
+  - Can't hear the engineer's sighs/mutterings?
+  - Can't focus enough to notice details?
+  - Text is fuzzy or confusing?
+  - Room descriptions are minimal?
+- **Your answer:** _______________
+
+### Q9: Where is the vending machine located?
+- Break room? Hallway? Your cubicle area?
+- **Your answer:** _______________
+
+### Q10: Where does the player find the token?
+- Option A: Already in your pocket/inventory
+- Option B: On your desk
+- Option C: Need to find it somewhere
+- Option D: Other?
+- **Your answer:** _______________
+
+### Q11: If player needs to find the token (Q10 = C), where is it?
+- **Your answer:** _______________
+
+### Q12: What snacks are in the vending machine?
+- Just one option or multiple choices?
+- What are they? (chips, candy bar, granola bar, energy bar, etc.)
+- **Your answer:** _______________
+
+### Q13: What happens after player eats the snack?
+- What specifically changes?
+- Examples:
+  - "Your head clears. You can think again."
+  - Can now hear engineer's coffee mug attempts?
+  - Can now notice more details in room descriptions?
+- **Your answer:** _______________
+
+### Q14: Is the vending machine puzzle required to progress?
+- Option A: Yes, must eat before you can notice the coffee puzzle
+- Option B: No, it's optional (just helpful)
+- **Your answer:** _______________
+
+### Q15: Any funny/absurd text for the vending machine or snacks?
+- Vending machine description?
+- Snack wrapper description?
+- **Your answer:** _______________
+
+---
+
+## SECTION 3: COFFEE PUZZLE
+
+### Q16: Coffee machine complexity - how hard is it to brew coffee?
 - Option A: Simple - just "brew coffee" and it works
 - Option B: Medium - need to find coffee grounds, add water, press button (3 steps)
 - Option C: Complex/Absurd - multi-step ridiculous process (clean filter, grind beans, sacrifice to coffee gods, etc.)
 - **Your answer:** _______________
 
-### Q9: Based on your answer to Q8, what EXACTLY are the steps to brew coffee?
+### Q17: Based on your answer to Q16, what EXACTLY are the steps to brew coffee?
 - List the specific actions the player must take:
 - **Your answer:**
   1. _______________
@@ -57,13 +107,13 @@ We'll go through these **ONE AT A TIME** to build the complete game design.
   3. _______________ (if needed)
   4. _______________ (if needed)
 
-### Q10: Where are the coffee-making ingredients/items located?
+### Q18: Where are the coffee-making ingredients/items located?
 - Coffee grounds: _______________
 - Water: _______________
 - Filter (if needed): _______________
 - Other: _______________
 
-### Q11: How does the engineer know coffee is ready?
+### Q19: How does the engineer know coffee is ready?
 - Option A: Smell automatically triggers them to leave (player doesn't need to do anything)
 - Option B: Player needs to tell them "coffee's ready" or similar
 - Option C: Player needs to bring them a cup
