@@ -93,7 +93,7 @@ We'll go through these **ONE AT A TIME** to build the complete game design.
 ### Q12: What snacks are in the vending machine?
 - Just one option or multiple choices?
 - What are they? (chips, candy bar, granola bar, energy bar, etc.)
-- **Your answer:** _______________
+- **Your answer:** **Only one snack: "Byte Bar" - Wrapper says "8 bits of nutrition!" Perfect tech pun for the programmer theme. Located at position C3 (established in Q8).**
 
 ### Q13: What happens after player eats the snack?
 - What specifically changes?
