@@ -71,8 +71,9 @@ We'll go through these **ONE AT A TIME** to build the complete game design.
 - **Your answer:** **"Tunnel vision" hunger state:**
   - **Can't focus on details**: Most descriptions are minimal/foggy
   - **Room descriptions are sparse**: Only essential elements visible
-  - **Can't understand Merl**: His speech is incomprehensible (garbled/muffled)
+  - **Can't notice Merl's behaviors**: His repetitive actions (coffee mug, headphones, etc.) aren't visible to you - too distracted
   - **BUT clear focus on survival**: Token, vending machine, and snack are perfectly clear (tunnel vision effect)
+  - **Periodic reminder**: "Your stomach growls" message appears every 5-10 turns (randomized) to remind player they're hungry
   - **Only one snack available**: Located at position **C3** in the vending machine
   - **Easter egg**: When snack is dispensed, display shows "PO" briefly - player thinks it means "Purchase Offered" and shrugs it off (actually completes C-3PO reference)
 
@@ -111,7 +112,7 @@ We'll go through these **ONE AT A TIME** to build the complete game design.
 ### Q14: Is the vending machine puzzle required to progress?
 - Option A: Yes, must eat before you can notice the coffee puzzle
 - Option B: No, it's optional (just helpful)
-- **Your answer:** _______________
+- **Your answer:** **Option A: Yes, must eat before you can notice the coffee puzzle. The mechanics established in Q13 confirm you cannot observe Merl's repetitive behaviors (especially the empty coffee mug attempts) until AFTER eating the Byte Bar. This makes the vending machine puzzle a required tutorial/warmup that unlocks the main coffee puzzle.**
 
 ### Q15: Any funny/absurd text for the vending machine or snacks?
 - Vending machine description?
