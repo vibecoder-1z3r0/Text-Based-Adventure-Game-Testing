@@ -131,7 +131,8 @@ We'll go through these **ONE AT A TIME** to build the complete game design.
   **Byte Bar wrapper:**
   - **Manufacturer**: "0g" (pronounced "Zero Gram")
   - **Main text**: "Byte Bar" and "8 bits of nutrition!" (established in Q12)
-  - **Wrapper design**: Everything else on the wrapper is written in 0s and 1s (binary), except the product name and company name
+  - **Ingredient claim**: "Free of Malloc()s and Null Pointers" (parody of health food labels)
+  - **Wrapper design**: Everything else on the wrapper is written in 0s and 1s (binary), except the product name, company name, and ingredient claim
   - **Position**: C3 in vending machine (established in Q8)
 
 ---
