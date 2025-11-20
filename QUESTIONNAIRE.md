@@ -10,7 +10,7 @@ We'll go through these **ONE AT A TIME** to build the complete game design.
 
 ### Q1: What is the lead engineer's name?
 - Options: Dave, Bernard, Steve, something absurd/funny?
-- **Your answer:** _______________
+- **Your answer:** **Merl** (short for Merlin, fits the "wizard" theme perfectly)
 
 ### Q2: Physical appearance - what do they look like?
 - Thick glasses? Hoodie? Band t-shirt? Something else?
