@@ -143,15 +143,16 @@ We'll go through these **ONE AT A TIME** to build the complete game design.
 - Option A: Simple - just "brew coffee" and it works
 - Option B: Medium - need to find coffee grounds, add water, press button (3 steps)
 - Option C: Complex/Absurd - multi-step ridiculous process (clean filter, grind beans, sacrifice to coffee gods, etc.)
-- **Your answer:** _______________
+- **Your answer:** **Between Option B and C - Multi-step with absurd comedy elements, but not overly complex. The 418 teapot swap is the key comedic moment (callback to Merl's "418 I'm a teapot" lament).**
 
 ### Q17: Based on your answer to Q16, what EXACTLY are the steps to brew coffee?
 - List the specific actions the player must take:
 - **Your answer:**
-  1. _______________
-  2. _______________
-  3. _______________ (if needed)
-  4. _______________ (if needed)
+  1. **Plug in the coffee maker** (it's currently unplugged)
+  2. **Remove the pot labeled "418"** from the coffee maker (it's a teapot - callback to Merl's "418 I'm a teapot" lament)
+  3. **Insert the pot labeled "C0FF33"** into the coffee maker (the proper coffee pot - hex/leetspeak for COFFEE)
+  4. **Find coffee grounds** and add them to the filter
+  5. **Brew coffee** (press the button/start brewing)
 
 ### Q18: Where are the coffee-making ingredients/items located?
 - Coffee grounds: _______________
