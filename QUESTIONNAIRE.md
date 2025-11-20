@@ -33,9 +33,10 @@ We'll go through these **ONE AT A TIME** to build the complete game design.
   - "YAML in Spaces"
   - "The Designs of Everyday Things"
   - "Assembler: Why Oh Why?"
-  - "CP1610 (Intellivision chipset) Game Development"
+  - "CP1610 Game Development"
   - "The 3 Ds of Automation"
   - "How to Write Software That No One Will Read"
+  - "Insert Token, Push Button, Get Snack - LLMs the Wrong Way"
 
 ### Q5: What absurd project are they working on?
 - Examples:
