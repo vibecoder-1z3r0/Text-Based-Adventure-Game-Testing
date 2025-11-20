@@ -14,7 +14,7 @@ We'll go through these **ONE AT A TIME** to build the complete game design.
 
 ### Q2: Physical appearance - what do they look like?
 - Thick glasses? Hoodie? Band t-shirt? Something else?
-- **Your answer:** _______________
+- **Your answer:** **Older engineer with a thick Unix-style grey beard, thick glasses, wearing a hoodie and ball cap. Has over-ear headphones. Vibe-coder aesthetic - keeps sunglasses at his desk for when he "vibe-codes"**
 
 ### Q3: What's on their mechanical keyboard?
 - RGB lights? Vintage mechanical? Custom keycaps? Plain?
