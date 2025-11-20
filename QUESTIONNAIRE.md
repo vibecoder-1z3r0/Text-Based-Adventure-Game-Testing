@@ -53,7 +53,7 @@ We'll go through these **ONE AT A TIME** to build the complete game design.
 ### Q7: Any other repetitive behaviors besides trying to drink empty coffee?
 - **Your answer:** **Summary of all repetitive behaviors:**
   1. **Empty coffee mug**: Tries to drink from it, looks inside, sighs when empty, sets it down, repeats
-  2. **Headphone music moments**: Occasionally puts headphones on for a brief moment and bobs his head to music (you can hear snippets - sounds like chiptune mixed with heavy metal mixed with Beatles from different decades), then slides them back down around his neck
+  2. **Headphone music moments**: Occasionally puts headphones on for a brief moment and bobs his head to music (you can hear snippets - sounds like chiptune mixed with heavy metal mixed with early 60s pop Beatles and their later 60s experimental stuff), then slides them back down around his neck
   3. **Pushes glasses up**: Periodically adjusts his thick glasses (established in GAME_DESIGN.md)
   4. **Mutters about 418**: Occasionally laments about "418 I'm a teapot" status codes while debugging his HTCPCP compiler
 
