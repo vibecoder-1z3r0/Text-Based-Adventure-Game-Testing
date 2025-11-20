@@ -207,9 +207,9 @@
   > *The engineer goes back to coding, moving windows around, running a flurry of CLI commands. Things go green and red on the screens. The engineer sighs and tries to drink more coffee.*
 
 - [x] **Example dialogue #2 (about coding philosophy):**
-  > "We must always serve the vibe!"
+  > Merl pauses, puts on his sunglasses, and says deadpan: "We must always serve the vibe!"
   >
-  > *The engineer pushes their glasses up, tries to drink more coffee, looks back at the mug and sighs, then goes back to more coding wizardry.*
+  > *He takes the glasses off and goes back to his keyboard wizardry. You could've sworn you just saw him create a new keyboard shortcut in Emacs and use it to make himself more productive, but the screens and hands went too fast. He is indeed an Open Source Wizard after all.*
 
 **Engineer Personality:**
 - [x] Cynical about AI/LLMs
