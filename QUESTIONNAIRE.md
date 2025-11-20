@@ -24,6 +24,19 @@ We'll go through these **ONE AT A TIME** to build the complete game design.
 - Options: Empty coffee cups, pizza boxes, rubber ducks, energy drink cans, programming books, action figures, etc.
 - **Your answer:** **At least 4 rubber ducks sitting below his monitors. One duck is named "The Dread Pirate Roberts" and has a trimmed-down post-it on the monitor serving as the duck's name placard. He has dual monitors + a laptop for the 3rd monitor setup (but it looks like he's working from 20 monitors due to all the windows/terminals open).**
 
+  **Programming books scattered around:**
+  - "Implementing Quantum Entanglement in Java"
+  - "The Heap, the Stack, and You"
+  - "It's Not DNS, It's Always DNS"
+  - "Heap Dumps and Mem Leaks"
+  - "Python Isn't Just About Snakes"
+  - "YAML in Spaces"
+  - "The Designs of Everyday Things"
+  - "Assembler: Why Oh Why?"
+  - "CP1610 (Intellivision chipset) Game Development"
+  - "The 3 Ds of Automation"
+  - "How to Write Software That No One Will Read"
+
 ### Q5: What absurd project are they working on?
 - Examples:
   - "Refactoring the blockchain AI neural network"
