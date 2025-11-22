@@ -375,7 +375,11 @@ List topics and their responses:
   - **Response 4:** The power cables glow faintly with magical energy when you touch them. A voice whispers "You cannot break the connection..." Merl doesn't seem to notice anything unusual. The vibes are strong with this workstation.
 
 ### Q37: What happens if you try to take their coffee mug?
-- **Your answer:** _______________
+- **Your answer:** **Cycling responses (rotate through all 4 on repeated attempts):**
+  - **Response 1:** You reach for the mug. Merl glances over, sees it's empty anyway, and waves his hand dismissively. "Go ahead, it's not like there's any coffee in it." As you pick it up, you notice the bottom has a permanent coffee ring stain that looks almost like a magical rune. You set it back down. Merl is already back to coding.
+  - **Response 2:** The moment you touch the mug, Merl's head snaps toward you with laser focus. "That's mine." His stare is intense enough to make you back away slowly. He cradles the mug as you retreat.
+  - **Response 3:** You lift the mug slightly - it's completely empty and bone dry. Merl notices the movement and sighs deeply. "Yeah, I know. Story of my life." Takes it back and sets it down with a sad look at the empty interior.
+  - **Response 4:** The mug seems stuck to the desk, as if glued there by years of coffee residue and magical coding energy. It won't budge. Merl doesn't even notice your attempt - the mug is clearly not going anywhere.
 
 ### Q38: What happens if you try to talk to them when they're in "the zone"?
 - **Your answer:** _______________
