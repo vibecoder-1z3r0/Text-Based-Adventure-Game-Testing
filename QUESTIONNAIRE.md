@@ -300,7 +300,12 @@ graph TD
 - Option B: "Can't talk, debugging critical race condition" (doesn't spoil)
 - Option C: They ignore you completely
 - Option D: Something else?
-- **Your answer:** _______________
+- **Your answer:** **Option B: Merl gives various responses (randomized or cycled) that don't spoil the puzzle:**
+  - "Can't talk, debugging critical race condition"
+  - "You're messing with my vibes."
+  - "Not now, I'm in the zone"
+  - "Mmph" (goes back to coding without looking up)
+  - "Ask me later, compiling..." (You glance at his screen - clearly nothing is compiling, but you think better of pointing this out)
 
 ### Q31: What does engineer say/do if you ask/tell them about coffee?
 - **Your answer:** _______________
