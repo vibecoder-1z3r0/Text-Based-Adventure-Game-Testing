@@ -284,7 +284,7 @@ graph TD
 
 ### Q28: What exact text is written on the post-it note?
 - Examples: "Password: hunter2", "Password: C0ff33IsL1f3", "Password: correct_horse_battery_staple"
-- **Your answer:** _______________
+- **Your answer:** **Password: NullC0FF33Exception** - Perfect multi-layered pun: references NullPointerException (Java), Merl's empty coffee cup (null coffee = exception state), uses leetspeak (C0FF33 = COFFEE), and ties directly to the puzzle motivation!
 
 ### Q29: Is the post-it immediately visible when keyboard is lifted?
 - Option A: Yes, immediately visible
