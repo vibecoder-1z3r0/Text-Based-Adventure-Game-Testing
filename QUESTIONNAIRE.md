@@ -168,7 +168,7 @@ We'll go through these **ONE AT A TIME** to build the complete game design.
 - Option B: Player needs to tell them "coffee's ready" or similar
 - Option C: Player needs to bring them a cup
 - Option D: Something else?
-- **Your answer:** _______________
+- **Your answer:** **Option B with magical absurdity: Player tells Merl the coffee is ready. If coffee IS actually brewed, Merl can smell it in the air. In a wink of his eye and tip of his hat, you swear his ball cap transforms into a pointy floppy wizard hat as he disappears in a flash to get coffee. His chair is left spinning as the magical vibes dissipate. (Pays off the "open source wizard" theme with literal wizard transformation!)**
 
 ### Q12: What happens when engineer leaves for coffee?
 - Option A: They stay in the break room permanently (no time pressure)
