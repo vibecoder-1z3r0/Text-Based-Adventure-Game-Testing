@@ -331,9 +331,14 @@ graph TD
 
 ### Q32: What other topics can you ask the engineer about? (besides LLMs which we have)
 List topics and their responses:
-- Topic: _______________ → Response: _______________
-- Topic: _______________ → Response: _______________
-- Topic: _______________ → Response: _______________
+
+- **Topic: Rubber ducks / "The Dread Pirate Roberts"** → Response: Merl glances at the ducks, "Ah yes, my debugging companions. The Dread Pirate Roberts here has helped me solve countless segfaults." Goes back to coding.
+
+- **Topic: Books** → Response: "That collection? Years of accumulated wisdom. Though 'YAML in Spaces' still gives me nightmares." Shudders slightly, returns to work.
+
+- **Topic: Music / Headphones** → Response: "The perfect coding soundtrack - a little chiptune, some Beatles, maybe some metal. Keeps the vibes flowing." Puts headphones on briefly, bobs head, slides them back down.
+
+- **Topic: Keyboard** → Response: **Merl's eyes light up.** Picks up the keyboard enthusiastically. "This beauty! Mechanical switches, tactile feedback, the perfect key travel... listen to this..." Demonstrates typing in the air. Sets the keyboard back down. **As he does, you think you see something underneath it for a split second, but couldn't tell what it was.** (HINT!) Merl is already back to coding, oblivious.
 
 ---
 
