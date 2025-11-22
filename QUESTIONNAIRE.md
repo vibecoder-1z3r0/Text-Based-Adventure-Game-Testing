@@ -389,8 +389,22 @@ List topics and their responses:
   - **Response 4:** You say something to Merl. He mutters back, but it's clearly a response to whatever's on his screen, not to you. "No, that won't compile... try the other function... yeah, that's the one..." Never breaks eye contact with his monitors. You're not even sure he knows you're in the room.
 
 ### Q39: Any other funny failed attempts you want custom responses for?
-- Attempt: _______________ → Response: _______________
-- Attempt: _______________ → Response: _______________
+
+- **Attempt: Trying to read Merl's screen** → Response: The code on screen seems to shift and blur when you try to focus on it. Lines of text rearrange themselves. Either it's protected by some magic, or you're just as tired as you thought. Merl doesn't notice your attempt.
+
+- **Attempt: Trying to type on Merl's keyboard while he's using it** → Response: Your fingers and Merl's fingers collide on the keys. He doesn't even look at you, just keeps typing, somehow working around your hands with practiced ease. After a few seconds of this awkward keyboard battle, you give up. Merl never broke his flow.
+
+- **Attempt: Trying to turn off the lights in his office** → Response: You flip the light switch. Nothing happens. You flip it again. Still nothing. You look at the switch - it's covered in a small post-it note that reads "Nice try - M" in Merl's handwriting. When did he have time to put that there?
+
+- **Attempt: Trying to take one of the rubber ducks** → Response: The moment you touch The Dread Pirate Roberts, Merl's hand shoots out and gently but firmly moves it back to its original position. "The Dread Pirate Roberts stays," he says without looking up. "We're debugging something important."
+
+- **Attempt: Trying to close/minimize Merl's programs** → Response: You reach for his mouse. Merl's hand covers yours, moves it away from the mouse, and returns to typing - all without him looking away from the screen. "Don't even think about it," he mutters.
+
+- **Attempt: Trying to unplug his headphones** → Response: You reach for the headphone cable. A small spark of static electricity zaps your finger. "Ow!" Merl glances over. "Yeah, the vibes are electric today." Goes back to coding.
+
+- **Attempt: Trying to take a book from his shelf** → Response: You pull on one of the coding books. It doesn't budge. You pull harder. The whole shelf creaks but the book stays put. Either these books are decorative or magically sealed. Merl doesn't notice your struggle.
+
+- **Attempt: Asking "What are you working on?"** → Response: Merl launches into an incredibly technical explanation involving recursive algorithms, lambda functions, and something about quantum entanglement in database transactions. After about 30 seconds your eyes glaze over. He's still talking. You slowly back away. He doesn't notice you've left.
 
 ---
 
