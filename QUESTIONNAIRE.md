@@ -412,7 +412,14 @@ List topics and their responses:
 
 ### Q40: What's at YOUR desk (the player's workstation)?
 - Locked computer? Personal items? Your own coffee mug? Stress ball?
-- **Your answer:** _______________
+- **Your answer:**
+  - **Locked computer** (requires password - this is where you'll need to log in at the end)
+  - **Coffee grounds** (in a bag or container - needed for the coffee maker puzzle)
+  - **1.z3r0 the vibe-coding duck** (your faithful debugging companion - a yellow rubber duck with "1.z3r0" written on it in marker)
+  - **Empty coffee mug** (just like Merl's - you're both in the same boat)
+  - **Standard office items:** keyboard, mouse, monitor(s), some scattered sticky notes, pens
+  - **A few coding books** (well-worn copies, dog-eared pages)
+  - The desk is functional but lived-in - clearly belongs to a developer
 
 ### Q41: What's in the break room besides the coffee maker?
 - Refrigerator? Microwave? Vending machine? Sink? Table and chairs?
