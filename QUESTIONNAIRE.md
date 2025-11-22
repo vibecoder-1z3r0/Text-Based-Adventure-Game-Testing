@@ -187,32 +187,85 @@ We'll go through these **ONE AT A TIME** to build the complete game design.
 - Option A: Minimal (2-3 rooms)
 - Option B: Medium (4-5 rooms)
 - Option C: Larger (6+ rooms)
-- **Your answer:** **Option C: 6 rooms total. Hallway serves as the main "hub" connecting to other rooms. Player starts in the Server Room.**
+- **Your answer:** **Option C: 8 rooms total. South Hallway and North Hallway serve as connecting hubs. Player starts in the Server Room.**
 
 ### Q23: What specific rooms exist in the game?
 Check all that apply and add any custom rooms:
-- [ ] Your Cubicle
-- [ ] Engineer's Cubicle
-- [ ] Hallway
-- [ ] Break Room
-- [ ] Conference Room
+- [x] Player's Office / Your Cubicle (east of South Hallway - has coffee grounds on your desk)
+- [x] Merl's Office / Engineer's Cubicle (west of South Hallway - has keyboard/password)
+- [x] South Hallway (southern hub)
+- [x] North Hallway (northern hub - has VENDING MACHINE)
+- [x] Kitchen / Break Room (north of North Hallway - has coffee maker, C0FF33 pot on table)
+- [x] Conference Room (east of North Hallway)
 - [ ] Bathroom
-- [ ] Server Room
+- [x] Server Room (starting location - south of South Hallway)
 - [ ] Manager's Office
 - [ ] Supply Closet
-- [ ] Other: _______________
+- [x] West Wing (west of North Hallway - "Out of Order" sign, strange candlestick, small grandfather clock - Maniac Mansion easter egg)
 - [ ] Other: _______________
 
 ### Q24: Where does the player start the game?
-- **Your answer:** _______________
+- **Your answer:** **Server Room (established in Q22)**
 
 ### Q25: Draw the room connections (which rooms connect to which)?
 Example format: "Your Cubicle is west of Hallway. Break Room is east of Hallway."
 - **Your answer:**
-_______________
-_______________
-_______________
-_______________
+
+**Text format:**
+- Server Room (START) connects:
+  - NORTH to South Hallway
+- South Hallway (southern hub) connects:
+  - SOUTH to Server Room
+  - EAST to Player's Office
+  - WEST to Merl's Office
+  - NORTH to North Hallway
+- Player's Office connects:
+  - WEST to South Hallway
+  - Contains: Coffee grounds on desk
+- Merl's Office connects:
+  - EAST to South Hallway
+  - Contains: Keyboard with password underneath
+- North Hallway (northern hub - has VENDING MACHINE) connects:
+  - SOUTH to South Hallway
+  - NORTH to Kitchen
+  - EAST to Conference Room
+  - WEST to West Wing (blocked by "Out of Order" sign)
+- Kitchen / Break Room connects:
+  - SOUTH to North Hallway
+  - Contains: Coffee maker, C0FF33 pot on table
+- Conference Room connects:
+  - WEST to North Hallway
+- West Wing:
+  - EAST to North Hallway (blocked - can see but not enter)
+  - Contains visible: "Out of Order" sign, strange candlestick, small grandfather clock (Maniac Mansion easter egg)
+
+**Mermaid diagram:**
+```mermaid
+graph TD
+    SH[South Hallway]
+    NH[North Hallway<br/>VENDING MACHINE]
+    SR[Server Room<br/>START HERE]
+    PO[Player's Office<br/>COFFEE GROUNDS]
+    MO[Merl's Office<br/>KEYBOARD/PASSWORD]
+    KIT[Kitchen<br/>COFFEE MAKER<br/>C0FF33 POT]
+    CR[Conference Room]
+    WW[West Wing<br/>OUT OF ORDER<br/>Candlestick & Clock]
+
+    SR -->|north| SH
+    SH -->|south| SR
+    SH -->|east| PO
+    PO -->|west| SH
+    SH -->|west| MO
+    MO -->|east| SH
+    SH -->|north| NH
+    NH -->|south| SH
+    NH -->|north| KIT
+    KIT -->|south| NH
+    NH -->|east| CR
+    CR -->|west| NH
+    NH -.->|west<br/>BLOCKED| WW
+    WW -.->|east<br/>BLOCKED| NH
+```
 
 ---
 
