@@ -174,10 +174,10 @@ We'll go through these **ONE AT A TIME** to build the complete game design.
 - Option A: They stay in the break room permanently (no time pressure)
 - Option B: They return after X turns (creates urgency)
 - Option C: Something else?
-- **Your answer:** _______________
+- **Your answer:** **Option C: Merl stays in the break room enjoying his coffee, but periodically appears as a ghostly/magical presence - Force ghost style - to taunt or encourage you with Obi-Wan Kenobi-like wisdom. "Use the keyboard, young padawan..." This adds comedy without time pressure, and pays off the wizard/magical theme even further!**
 
 ### Q21: If they return (Q20 = B), how many turns before they come back?
-- **Your answer:** _______________
+- **Your answer:** **N/A - Q20 = Option C (Force ghost encouragement instead of returning)**
 
 ---
 
