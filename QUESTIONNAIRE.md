@@ -361,7 +361,9 @@ List topics and their responses:
 ## SECTION 8: FAILED ATTEMPTS & COMEDY
 
 ### Q35: What happens if you try to push/move the engineer physically?
-- **Your answer:** _______________
+- **Your answer:** **Randomized responses:**
+  - **Response 1:** The moment you make contact with Merl, you feel a strange tingling sensation and your hands go slightly numb. Merl glances up briefly, "Personal space, dude," then goes back to coding. The tingling fades after a few seconds.
+  - **Response 2:** Merl spins his chair around to face you with surprising speed, gives you a Gandalf-esque "You shall not pass!" glare that stops you in your tracks, then spins back to his monitors and continues coding without another word.
 
 ### Q36: What happens if you try to unplug their computer/monitors?
 - **Your answer:** _______________
