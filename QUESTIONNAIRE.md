@@ -170,26 +170,26 @@ We'll go through these **ONE AT A TIME** to build the complete game design.
 - Option D: Something else?
 - **Your answer:** **Option B with magical absurdity: Player tells Merl the coffee is ready. If coffee IS actually brewed, Merl can smell it in the air. In a wink of his eye and tip of his hat, you swear his ball cap transforms into a pointy floppy wizard hat as he disappears in a flash to get coffee. His chair is left spinning as the magical vibes dissipate. (Pays off the "open source wizard" theme with literal wizard transformation!)**
 
-### Q12: What happens when engineer leaves for coffee?
+### Q20: What happens when engineer leaves for coffee?
 - Option A: They stay in the break room permanently (no time pressure)
 - Option B: They return after X turns (creates urgency)
 - Option C: Something else?
 - **Your answer:** _______________
 
-### Q13: If they return (Q12 = B), how many turns before they come back?
+### Q21: If they return (Q20 = B), how many turns before they come back?
 - **Your answer:** _______________
 
 ---
 
-## SECTION 3: ROOM LAYOUT & NAVIGATION
+## SECTION 4: ROOM LAYOUT & NAVIGATION
 
-### Q14: How many rooms total in the game?
+### Q22: How many rooms total in the game?
 - Option A: Minimal (2-3 rooms)
 - Option B: Medium (4-5 rooms)
 - Option C: Larger (6+ rooms)
 - **Your answer:** _______________
 
-### Q15: What specific rooms exist in the game?
+### Q23: What specific rooms exist in the game?
 Check all that apply and add any custom rooms:
 - [ ] Your Cubicle
 - [ ] Engineer's Cubicle
@@ -203,10 +203,10 @@ Check all that apply and add any custom rooms:
 - [ ] Other: _______________
 - [ ] Other: _______________
 
-### Q16: Where does the player start the game?
+### Q24: Where does the player start the game?
 - **Your answer:** _______________
 
-### Q17: Draw the room connections (which rooms connect to which)?
+### Q25: Draw the room connections (which rooms connect to which)?
 Example format: "Your Cubicle is west of Hallway. Break Room is east of Hallway."
 - **Your answer:**
 _______________
@@ -216,43 +216,43 @@ _______________
 
 ---
 
-## SECTION 4: KEYBOARD & POST-IT
+## SECTION 5: KEYBOARD & POST-IT
 
-### Q18: What happens if player tries to take/lift keyboard while engineer is there?
+### Q26: What happens if player tries to take/lift keyboard while engineer is there?
 - What's the funny/absurd rejection message?
 - **Your answer:** _______________
 
-### Q19: When engineer is gone, what command(s) work to access the post-it?
+### Q27: When engineer is gone, what command(s) work to access the post-it?
 - Option A: "lift keyboard" only
 - Option B: "look under keyboard" only
 - Option C: Both A and B work
 - Option D: Something else?
 - **Your answer:** _______________
 
-### Q20: What exact text is written on the post-it note?
+### Q28: What exact text is written on the post-it note?
 - Examples: "Password: hunter2", "Password: C0ff33IsL1f3", "Password: correct_horse_battery_staple"
 - **Your answer:** _______________
 
-### Q21: Is the post-it immediately visible when keyboard is lifted?
+### Q29: Is the post-it immediately visible when keyboard is lifted?
 - Option A: Yes, immediately visible
 - Option B: Need to search or examine more carefully
 - **Your answer:** _______________
 
 ---
 
-## SECTION 5: NPC INTERACTIONS
+## SECTION 6: NPC INTERACTIONS
 
-### Q22: What does engineer say if you ask them about the password?
+### Q30: What does engineer say if you ask them about the password?
 - Option A: "Mmph, check under my keyboard" (spoils puzzle)
 - Option B: "Can't talk, debugging critical race condition" (doesn't spoil)
 - Option C: They ignore you completely
 - Option D: Something else?
 - **Your answer:** _______________
 
-### Q23: What does engineer say/do if you ask/tell them about coffee?
+### Q31: What does engineer say/do if you ask/tell them about coffee?
 - **Your answer:** _______________
 
-### Q24: What other topics can you ask the engineer about? (besides LLMs which we have)
+### Q32: What other topics can you ask the engineer about? (besides LLMs which we have)
 List topics and their responses:
 - Topic: _______________ → Response: _______________
 - Topic: _______________ → Response: _______________
@@ -260,81 +260,81 @@ List topics and their responses:
 
 ---
 
-## SECTION 6: WIN CONDITION
+## SECTION 7: WIN CONDITION
 
-### Q25: What triggers victory?
+### Q33: What triggers victory?
 - Option A: Just reading the post-it = instant win
 - Option B: Taking the post-it = instant win
 - Option C: Need to actually use the password to log into your computer
 - Option D: Something else?
 - **Your answer:** _______________
 
-### Q26: What is the exact victory message?
+### Q34: What is the exact victory message?
 - **Your answer:** _______________
 
 ---
 
-## SECTION 7: FAILED ATTEMPTS & COMEDY
+## SECTION 8: FAILED ATTEMPTS & COMEDY
 
-### Q27: What happens if you try to push/move the engineer physically?
+### Q35: What happens if you try to push/move the engineer physically?
 - **Your answer:** _______________
 
-### Q28: What happens if you try to unplug their computer/monitors?
+### Q36: What happens if you try to unplug their computer/monitors?
 - **Your answer:** _______________
 
-### Q29: What happens if you try to take their coffee mug?
+### Q37: What happens if you try to take their coffee mug?
 - **Your answer:** _______________
 
-### Q30: What happens if you try to talk to them when they're in "the zone"?
+### Q38: What happens if you try to talk to them when they're in "the zone"?
 - **Your answer:** _______________
 
-### Q31: Any other funny failed attempts you want custom responses for?
+### Q39: Any other funny failed attempts you want custom responses for?
 - Attempt: _______________ → Response: _______________
 - Attempt: _______________ → Response: _______________
 
 ---
 
-## SECTION 8: OBJECTS & DETAILS
+## SECTION 9: OBJECTS & DETAILS
 
-### Q32: What's at YOUR desk (the player's workstation)?
+### Q40: What's at YOUR desk (the player's workstation)?
 - Locked computer? Personal items? Your own coffee mug? Stress ball?
 - **Your answer:** _______________
 
-### Q33: What's in the break room besides the coffee maker?
+### Q41: What's in the break room besides the coffee maker?
 - Refrigerator? Microwave? Vending machine? Sink? Table and chairs?
 - **Your answer:** _______________
 
-### Q34: Are there any red herrings (objects that seem useful but aren't)?
+### Q42: Are there any red herrings (objects that seem useful but aren't)?
 - **Your answer:** _______________
 
 ---
 
-## SECTION 9: OPTIONAL FEATURES
+## SECTION 10: OPTIONAL FEATURES
 
-### Q35: Should there be a turn limit or time pressure?
+### Q43: Should there be a turn limit or time pressure?
 - **Your answer:** _______________
 
-### Q36: Should there be alternate ways to solve the puzzle?
+### Q44: Should there be alternate ways to solve the puzzle?
 - If yes, describe: _______________
 
-### Q37: Any easter eggs or hidden jokes you want to include?
+### Q45: Any easter eggs or hidden jokes you want to include?
 - **Your answer:** _______________
 
-### Q38: Any other NPCs in the office?
+### Q46: Any other NPCs in the office?
 - Manager? Intern? Janitor? Coworkers?
 - **Your answer:** _______________
 
 ---
 
-## SECTION 10: TONE & FLAVOR
+## SECTION 11: TONE & FLAVOR
 
-### Q39: Tone for room descriptions - dry/deadpan, over-the-top, or mix?
+### Q47: Tone for room descriptions - dry/deadpan, over-the-top, or mix?
 - **Your answer:** _______________
 
-### Q40: Any other running gags besides the coffee mug attempts?
+### Q48: Any other running gags besides the coffee mug attempts?
 - **Your answer:** _______________
 
-### Q41: Any other absurd visual details like the "3 monitors look like 7" effect?
+### Q49: Any other absurd visual details like the "3 monitors look like 7" effect?
 - **Your answer:** _______________
 
 ---
