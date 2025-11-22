@@ -349,7 +349,7 @@ List topics and their responses:
 - Option B: Taking the post-it = instant win
 - Option C: Need to actually use the password to log into your computer
 - Option D: Something else?
-- **Your answer:** _______________
+- **Your answer:** **Option C: Player must actually use the password to log into their computer. After getting the password from under the keyboard, they need to return to their desk and successfully log in. This completes the full puzzle cycle.**
 
 ### Q34: What is the exact victory message?
 - **Your answer:** _______________
