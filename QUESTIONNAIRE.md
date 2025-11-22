@@ -308,7 +308,26 @@ graph TD
   - "Ask me later, compiling..." (You glance at his screen - clearly nothing is compiling, but you think better of pointing this out)
 
 ### Q31: What does engineer say/do if you ask/tell them about coffee?
-- **Your answer:** _______________
+- **Your answer:** **Different responses based on context:**
+
+  **1. Asking about coffee (before it's brewed):**
+  - Merl: "Coffee, that's a good idea."
+  - Tries to take a sip from his mug
+  - Realizes it's empty
+  - Sighs
+  - Goes back to coding
+
+  **2. Telling him "coffee's ready" when it IS actually brewed:**
+  - Triggers the wizard transformation (established in Q19)
+  - Sniffs the air, smells the coffee
+  - Ball cap transforms into wizard hat
+  - Disappears in a flash to get coffee
+
+  **3. Telling him "coffee's ready" when it's NOT actually brewed:**
+  - Merl sniffs the air
+  - "I can tell there is no coffee brewing."
+  - Dismissive wave of the hand, motioning for you to leave
+  - Goes back to coding
 
 ### Q32: What other topics can you ask the engineer about? (besides LLMs which we have)
 List topics and their responses:
