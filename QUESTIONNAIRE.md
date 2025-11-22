@@ -382,7 +382,11 @@ List topics and their responses:
   - **Response 4:** The mug seems stuck to the desk, as if glued there by years of coffee residue and magical coding energy. It won't budge. Merl doesn't even notice your attempt - the mug is clearly not going anywhere.
 
 ### Q38: What happens if you try to talk to them when they're in "the zone"?
-- **Your answer:** _______________
+- **Your answer:** **Cycling responses (rotate through all 4 on repeated attempts):**
+  - **Response 1:** You say something to Merl. He nods absently, "Uh-huh... yeah... sure..." without looking away from the screen. Five seconds later: "Wait, what did you say?" But by the time you start to repeat yourself, he's already back in the zone, typing furiously.
+  - **Response 2:** You try to get his attention. Merl holds up one finger in a "just a minute" gesture, eyes glued to the screen. "Almost got it... almost..." The finger stays up. Minutes pass. He's completely forgotten you're there.
+  - **Response 3:** You speak to Merl. No response. You try again, louder. Still nothing. He's wearing headphones, but they're not on his ears - they're hanging around his neck. The music is playing but he's so focused he doesn't notice they're not actually on his head.
+  - **Response 4:** You say something to Merl. He mutters back, but it's clearly a response to whatever's on his screen, not to you. "No, that won't compile... try the other function... yeah, that's the one..." Never breaks eye contact with his monitors. You're not even sure he knows you're in the room.
 
 ### Q39: Any other funny failed attempts you want custom responses for?
 - Attempt: _______________ → Response: _______________
