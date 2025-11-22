@@ -280,7 +280,7 @@ graph TD
 - Option B: "look under keyboard" only
 - Option C: Both A and B work
 - Option D: Something else?
-- **Your answer:** _______________
+- **Your answer:** **Option C: Multiple commands work for good UX - "lift keyboard", "look under keyboard", and "take keyboard" all reveal the post-it underneath. "Take keyboard" doesn't actually take the keyboard object, just shows what's under it (same result as lift/look). Natural language flexibility for the player.**
 
 ### Q28: What exact text is written on the post-it note?
 - Examples: "Password: hunter2", "Password: C0ff33IsL1f3", "Password: correct_horse_battery_staple"
