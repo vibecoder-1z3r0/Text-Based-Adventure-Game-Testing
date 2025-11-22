@@ -368,7 +368,11 @@ List topics and their responses:
   - **Response 4:** Merl spins his chair around to face you with surprising speed, gives you a Gandalf-esque "You shall not pass!" glare that stops you in your tracks, then spins back to his monitors and continues coding without another word.
 
 ### Q36: What happens if you try to unplug their computer/monitors?
-- **Your answer:** _______________
+- **Your answer:** **Cycling responses (rotate through all 4 on repeated attempts):**
+  - **Response 1:** As you reach for the power cable, Merl's hand shoots out without him even looking up from the screen. He gently but firmly redirects your hand away. "Don't even think about it," he mutters, eyes still locked on code.
+  - **Response 2:** The moment you touch the power cable, all the monitors flicker and display a giant red warning: "CRITICAL SYSTEM - DO NOT DISCONNECT" - but you can see this is just Merl's custom screensaver trigger. He spins around: "Nice try."
+  - **Response 3:** You reach for the plug, but the cables seem to be hopelessly tangled in an impossible knot under the desk. It would take hours to untangle them, and Merl is sitting right there anyway.
+  - **Response 4:** The power cables glow faintly with magical energy when you touch them. A voice whispers "You cannot break the connection..." Merl doesn't seem to notice anything unusual. The vibes are strong with this workstation.
 
 ### Q37: What happens if you try to take their coffee mug?
 - **Your answer:** _______________
