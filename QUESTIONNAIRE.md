@@ -352,7 +352,7 @@ List topics and their responses:
 - **Your answer:** **Option C: Player must actually use the password to log into their computer. After getting the password from under the keyboard, they need to return to their desk and successfully log in. This completes the full puzzle cycle.**
 
 ### Q34: What is the exact victory message?
-- **Your answer:** _______________
+- **Your answer:** **"Skynet has been successfully launched from your workstation - have a nice day!"** - Darkly comedic twist ending: after all the effort to log in, you accidentally trigger a robot apocalypse. Perfect absurd payoff!
 
 ---
 
