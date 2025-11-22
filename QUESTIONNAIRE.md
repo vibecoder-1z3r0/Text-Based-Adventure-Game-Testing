@@ -340,6 +340,8 @@ List topics and their responses:
 
 - **Topic: Keyboard** → Response: **Merl's eyes light up.** Picks up the keyboard enthusiastically. "This beauty! Mechanical switches, tactile feedback, the perfect key travel... listen to this..." Demonstrates typing in the air. Sets the keyboard back down. **As he does, you think you see something underneath it for a split second, but couldn't tell what it was.** (HINT!) Merl is already back to coding, oblivious.
 
+- **Topic: Asking for help / Help with password** → Response: Merl looks up from his screen, genuinely interested. "Oh, sure! Let me help you with that..." Starts to turn toward you, then something on his monitor catches his eye. "Wait, is that a—" Gets completely absorbed in whatever appeared on screen. Back to coding. You've been forgotten.
+
 ---
 
 ## SECTION 7: WIN CONDITION
