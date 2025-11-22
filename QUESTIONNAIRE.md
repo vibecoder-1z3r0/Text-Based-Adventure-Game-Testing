@@ -289,7 +289,7 @@ graph TD
 ### Q29: Is the post-it immediately visible when keyboard is lifted?
 - Option A: Yes, immediately visible
 - Option B: Need to search or examine more carefully
-- **Your answer:** _______________
+- **Your answer:** **Option A: Yes, immediately visible. After all the puzzle-solving, the player gets immediate payoff - lift/look/take keyboard and the post-it is right there with the password.**
 
 ---
 
