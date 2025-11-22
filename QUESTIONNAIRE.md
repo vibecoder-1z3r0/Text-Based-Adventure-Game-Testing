@@ -187,7 +187,7 @@ We'll go through these **ONE AT A TIME** to build the complete game design.
 - Option A: Minimal (2-3 rooms)
 - Option B: Medium (4-5 rooms)
 - Option C: Larger (6+ rooms)
-- **Your answer:** _______________
+- **Your answer:** **Option C: 6 rooms total. Hallway serves as the main "hub" connecting to other rooms. Player starts in the Server Room.**
 
 ### Q23: What specific rooms exist in the game?
 Check all that apply and add any custom rooms:
