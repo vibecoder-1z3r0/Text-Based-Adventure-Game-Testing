@@ -273,7 +273,7 @@ graph TD
 
 ### Q26: What happens if player tries to take/lift keyboard while engineer is there?
 - What's the funny/absurd rejection message?
-- **Your answer:** _______________
+- **Your answer:** **Merl goes full Gandalf-in-Khazad-dûm mode: Dramatically declares "You shall not pass!" (or similar), smacks away your hands, glares at you intensely, then immediately goes back to coding as if nothing happened. Pays off the wizard theme with a Lord of the Rings reference!**
 
 ### Q27: When engineer is gone, what command(s) work to access the post-it?
 - Option A: "lift keyboard" only
