@@ -448,7 +448,15 @@ List topics and their responses:
   - Poster referring to "vibe coder codex, a scroll"
 
 ### Q42: Are there any red herrings (objects that seem useful but aren't)?
-- **Your answer:** _______________
+- **Your answer:** Yes, several:
+  - **Dishwasher puzzle** (MAIN RED HERRING) - The entire dishwasher system (emptying, reloading, flipping the "probably clean/probably dirty" magnet) is a completable puzzle but NOT required for the solution. It only awards bonus points for completion. Designed to feel important and distract players.
+  - **HAL server pod doors** - Can be examined but never opened ("I'm sorry Dave...")
+  - **West Wing** - Visible through blocked doorway with intriguing items (candlestick, grandfather clock, "Out of Order" sign) but can never be entered
+  - **Microwave contents** - Postal stamp and tiny hamster sweater are just absurd details with no purpose
+  - **Grue milk and questionable leftovers** - In fridge but serve no puzzle function
+  - **Books on Merl's shelf** - Can't be taken (magically sealed or stuck)
+  - **Conference Room** - Atmospheric but contains nothing essential to puzzle
+  - **Posters in hallways** - Flavor text and jokes, not puzzle items
 
 ---
 
