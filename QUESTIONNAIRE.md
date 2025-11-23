@@ -463,7 +463,7 @@ List topics and their responses:
 ## SECTION 10: OPTIONAL FEATURES
 
 ### Q43: Should there be a turn limit or time pressure?
-- **Your answer:** _______________
+- **Your answer:** **No turn limit or time pressure.** Players can explore at their own pace, try different interactions, discover all the cycling responses, complete the dishwasher bonus puzzle, and fully experience the comedy without stress. The game rewards exploration and experimentation.
 
 ### Q44: Should there be alternate ways to solve the puzzle?
 - If yes, describe: _______________
