@@ -427,11 +427,25 @@ List topics and their responses:
   - **Coffee maker** (the main puzzle item - currently has 418 teapot, needs C0FF33 pot)
   - **Table and chairs** (C0FF33 pot is sitting on the table)
   - **Microwave** (when examined closely, has a postal stamp stuck to one of the inside walls and a small yellow sweater that looks like it would fit a hamster - no explanation for either)
-  - **Refrigerator** (probably contains questionable leftovers and expired condiments)
-  - **Sink** (for washing mugs, if anyone ever actually does that)
-  - **Cabinets** (basic supplies - napkins, plastic utensils, etc.)
+  - **Refrigerator** (contains questionable leftovers, something that resembles grue milk, expired condiments, and a sign that says "the sparkling water next to MY lunch is NOT up for grabs!")
+  - **Sink** (contains empty dirty coffee mugs and dishes that can be loaded into the dishwasher)
+  - **Dishwasher** (contains clean dishes when game starts, has flippy magnet that says "probably clean//probably dirty" starting on "probably clean" side. Magnet can't be flipped until dishwasher is loaded with dirty dishes. Dishes can be put away in cupboards/cabinets if clean. Can't reload if clean dishes still inside. Dishes can't be taken from the room.)
+  - **Cabinets/Cupboards** (for storing clean dishes, basic supplies - napkins, plastic utensils, etc.)
   - **Counter space** (typical break room setup)
   - The room is functional but has that "shared space" energy where weird things accumulate and no one questions them
+
+**Additional Room Details:**
+
+**Server Room:**
+- Lights can be turned off
+- With lights off: only blinking server rack lights and exit sign provide illumination - otherwise it'd be "pitch black and you'd be most likely eaten by a grue" (Zork reference!)
+- One server named "HAL" (2001: A Space Odyssey reference)
+- Pod doors next to HAL that can't be opened ("I'm sorry Dave...")
+
+**Hallways (South and/or North):**
+- Motivational/comedic posters on walls:
+  - "LLMs - the world's greatest 'non-deterministic' guessing machines' — r0otda3m0n"
+  - Poster referring to "vibe coder codex, a scroll"
 
 ### Q42: Are there any red herrings (objects that seem useful but aren't)?
 - **Your answer:** _______________
