@@ -514,8 +514,19 @@ List topics and their responses:
   These provide enough comedic repetition without overdoing it.
 
 ### Q49: Any other absurd visual details like the "3 monitors look like 7" effect?
-- **Your answer:** _______________
+- **Your answer:** **No additional absurd visual details needed.** The existing ones provide plenty of visual comedy:
+  - Merl's 3 monitors arranged to look like 7
+  - Postal stamp and tiny yellow hamster sweater in microwave
+  - Glowing magical cables with whispered warnings
+  - Coffee ring stain that looks like a magical rune
+  - Candlestick and grandfather clock visible in blocked West Wing
+  - Blinking server lights in darkness (grue reference)
+  - Headphones around neck while music plays (Merl doesn't notice)
+
+  These visual absurdities are well-distributed throughout the game and support the deadpan humor style.
 
 ---
 
-*We'll go through these ONE AT A TIME. Ready to start with Q1?*
+## ✅ QUESTIONNAIRE COMPLETE!
+
+All 49 questions answered. Ready to proceed with Inform 7 implementation.
