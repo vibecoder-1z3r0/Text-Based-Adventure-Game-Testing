@@ -504,7 +504,14 @@ List topics and their responses:
   - **Comedy comes from:** The contrast between mundane delivery and absurd content
 
 ### Q48: Any other running gags besides the coffee mug attempts?
-- **Your answer:** _______________
+- **Your answer:** **No additional running gags needed.** The existing recurring elements are sufficient:
+  - Empty coffee mugs (shared struggle between player and Merl)
+  - Merl's obliviousness and intense focus (cycling responses)
+  - "The vibes" and magical coding energy references throughout
+  - Cycling responses for repeated failed attempts (keeps comedy fresh)
+  - Hunger tunnel vision mechanic (periodic stomach growls)
+
+  These provide enough comedic repetition without overdoing it.
 
 ### Q49: Any other absurd visual details like the "3 monitors look like 7" effect?
 - **Your answer:** _______________
