@@ -470,7 +470,18 @@ List topics and their responses:
 - **Your answer:** **No alternate solutions.** There is one intended solution path: (1) Get snack from vending machine to break hunger tunnel vision, (2) Make coffee (plug in, swap 418/C0FF33 pots, add grounds, brew), (3) Tell Merl coffee is ready, (4) Get password from under keyboard when he disappears, (5) Log into your computer. This keeps the puzzle focused, clean, and fully testable.
 
 ### Q45: Any easter eggs or hidden jokes you want to include?
-- **Your answer:** _______________
+- **Your answer:** Many easter eggs throughout:
+  - **Personal references:** 10/01/IO token (vibecoder 1.z3r0), 1.z3r0 the vibe-coding duck, vibe coder codex scroll poster, LLM poster by r0otda3m0n
+  - **Star Wars:** C-3PO (vending C3 position), Force ghost Merl, Obi-Wan wisdom ("Use the keyboard!")
+  - **LOTR:** Gandalf references ("You shall not pass!", wizard transformation)
+  - **Princess Bride:** "The Dread Pirate Roberts" rubber duck
+  - **Maniac Mansion:** West Wing "Out of Order" sign, grandfather clock, candlestick (+ Beauty and the Beast dual reference)
+  - **2001 Space Odyssey:** HAL server with pod doors that won't open
+  - **Zork:** "Pitch black and eaten by a grue" in dark server room, grue milk in fridge
+  - **Terminator:** Skynet victory message
+  - **RFC 2324/HTCPCP:** 418 teapot in coffee maker
+  - **Tech humor:** NullC0FF33Exception password, Byte Bar with "Free of Malloc()s and Null Pointers", 0g company
+  - **Absurdist details:** Microwave postal stamp & tiny hamster sweater, territorial lunch sign, compiling nothing, magical coding vibes
 
 ### Q46: Any other NPCs in the office?
 - Manager? Intern? Janitor? Coworkers?
