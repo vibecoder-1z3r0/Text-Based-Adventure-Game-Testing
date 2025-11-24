@@ -485,7 +485,7 @@ List topics and their responses:
 
 ### Q46: Any other NPCs in the office?
 - Manager? Intern? Janitor? Coworkers?
-- **Your answer:** _______________
+- **Your answer:** **No other NPCs.** Just the player and Merl (the engineer). This keeps the game focused on the central puzzle and character interaction. The office has a quiet, after-hours feel where it's just the two of you working late.
 
 ---
 
