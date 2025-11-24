@@ -467,6 +467,7 @@ List topics and their responses:
 
 ### Q44: Should there be alternate ways to solve the puzzle?
 - If yes, describe: _______________
+- **Your answer:** **No alternate solutions.** There is one intended solution path: (1) Get snack from vending machine to break hunger tunnel vision, (2) Make coffee (plug in, swap 418/C0FF33 pots, add grounds, brew), (3) Tell Merl coffee is ready, (4) Get password from under keyboard when he disappears, (5) Log into your computer. This keeps the puzzle focused, clean, and fully testable.
 
 ### Q45: Any easter eggs or hidden jokes you want to include?
 - **Your answer:** _______________
