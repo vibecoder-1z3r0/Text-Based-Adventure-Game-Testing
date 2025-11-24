@@ -492,7 +492,16 @@ List topics and their responses:
 ## SECTION 11: TONE & FLAVOR
 
 ### Q47: Tone for room descriptions - dry/deadpan, over-the-top, or mix?
-- **Your answer:** _______________
+- **Your answer:** **Mostly dry/deadpan with absurd details presented as normal (Option A), with situational variation (Option D).**
+  - **General approach:** Matter-of-fact narration describing increasingly bizarre situations as if they're perfectly ordinary. Example: "The microwave contains a postal stamp and a tiny yellow hamster sweater" - no explanation, just stated as fact.
+  - **Room-specific tone:**
+    - Server Room: Technical/utilitarian, with understated Zork reference
+    - Offices: Observational, slightly bemused at Merl's quirks
+    - Break Room: Shared-space exhaustion, resigned to weirdness
+    - Hallways: Neutral with deadpan humor in poster descriptions
+    - Conference Room: Corporate sterile
+  - **Magical moments:** When they occur (wizard transformation, glowing cables), describe them matter-of-factly - player notices but doesn't overreact
+  - **Comedy comes from:** The contrast between mundane delivery and absurd content
 
 ### Q48: Any other running gags besides the coffee mug attempts?
 - **Your answer:** _______________
